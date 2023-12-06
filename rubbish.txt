@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is C8F7-F665
+
+ Directory of C:\Users\niall\OneDrive - Atlantic TU\Infrastructure as a code\Batch Files
+
+06/10/2023  20:39    <DIR>          .
+05/10/2023  19:54    <DIR>          ..
+06/10/2023  20:06                22 demo1.bat
+06/10/2023  20:08               346 demo2.bat
+06/10/2023  20:10               457 demo3.bat
+06/10/2023  20:12               664 demo4.bat
+06/10/2023  20:13               357 demo5.bat
+06/10/2023  20:14               414 demo6.bat
+06/10/2023  20:26               442 demo7.bat
+06/10/2023  20:28               582 demo8.bat
+06/10/2023  20:36               725 demo9.bat
+06/10/2023  20:39                 0 rubbish.txt
+              10 File(s)          4,009 bytes
+               2 Dir(s)  305,608,499,200 bytes free
